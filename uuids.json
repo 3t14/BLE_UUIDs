@@ -1,4 +1,4 @@
-  "comments": "This JSON code is for manifest.json which uses for packaging Chrome extentions and apps..",
+  "comment": "This JSON code is for manifest.json which uses for packaging Chrome extentions and apps..",
   "bluetooth": {
 	  "uuids": [
 	    "1800", "1801", "1802", "1803",	"1804",	"1805",	"1806",	"1807",	
